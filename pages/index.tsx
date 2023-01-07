@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
-       <h1>สวัสดีชาวโลก</h1>
+       <h1>สวัสดีปริญญากร</h1>
         </div>
       </main>
     </>
