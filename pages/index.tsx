@@ -17,6 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
        <h1>สวัสดีปริญญากร</h1>
+       <div>TEST</div>
         </div>
       </main>
     </>
